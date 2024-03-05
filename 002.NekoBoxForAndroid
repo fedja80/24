@@ -1,1 +1,6 @@
 https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+Termux安卓版(终端仿真器) 版本：v0.119.1
+https://www.32r.com/app/136073.html
+
+wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/files/warp-yxip/warp-yxip.sh && bash warp-yxip.sh
